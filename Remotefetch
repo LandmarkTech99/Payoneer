@@ -1,0 +1,4 @@
+#Trying out git fetch
+echo "hello world, how are you today?"
+read answer
+echo "$answer ? Are you sure? Okay, bye!"
